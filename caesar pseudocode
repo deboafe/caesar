@@ -1,0 +1,32 @@
+
+if command Line has 2 variable and (key = postive integer).
+    goto line 7
+
+else
+    print
+    if number of variable in the commnad line is not equal to 2;
+        print error message ID_1;
+    if the value of the key <= 0;
+        print error message ID_2;
+    else
+      print error meassage ID_3;
+return 1.
+
+
+prompt the user for the plantext strings;
+
+repeat line line 20 to 27 until the end of the string.
+
+    if character is an alphabet,
+        change the value of the charater up the alphebet by the value of Key,
+
+    else
+        value of the character remains the same.
+
+
+    print the new character
+
+
+Program return 0.
+
+
